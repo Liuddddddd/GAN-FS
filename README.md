@@ -16,6 +16,8 @@ Intrusion detection, GAN, Feature selection, Unbalanced dataset, Oversampling
 run generator.ipynb to generate attack samples
 ### Train & Test IDS
 run GAN-FS.ipynb to build IDS with rebalanced dataset
+### Baseline
+run baseline.ipynb to  to compare baseline results
 ## Recommended Citation :
 If you use this repository in your research, cite the the following papers :  
 Xiaodong Liu, Tong Li, Runzi Zhang, Di Wu, Yongheng Liu, Zhen Yang, "A GAN and Feature Selection-Based Oversampling Technique for Intrusion Detection", Security and Communication Networks, vol. 2021, Article ID 9947059, 15 pages, 2021.
