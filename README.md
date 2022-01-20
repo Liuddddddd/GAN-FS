@@ -6,7 +6,7 @@ In recent years, there have been numerous cyber security issues that have caused
 ## Keywords :
 Intrusion detection, GAN, Feature selection, Unbalanced dataset, Oversampling
 ## Authors :
-Xiaodong Liu<sup>1</sup>, Tong<sup>1,2</sup>, Zhang Runzi<sup>3,4</sup>, Di Wu<sup>1</sup>, Yongheng Liu<sup>1</sup>, Zhen Yang<sup>1,2</sup>  
+[Xiaodong Liu](liuxiaodongpro@163.com)<sup>1</sup>, Tong<sup>1,2</sup>, Zhang Runzi<sup>3,4</sup>, Di Wu<sup>1</sup>, Yongheng Liu<sup>1</sup>, Zhen Yang<sup>1,2</sup>  
 <sup>1</sup>Faculty of Information Technology, Beijing University of Technology  
 <sup>2</sup>Engineering Research Center of Intelligent Perception and Autonomous  Control, Ministry of Education  
 <sup>3</sup>NSFOCUS Technologies Group Co., Ltd., Beijing, 100089  
