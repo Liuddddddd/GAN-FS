@@ -13,7 +13,7 @@ Intrusion detection, GAN, Feature selection, Unbalanced dataset, Oversampling
 <sup>4</sup>Department of Automation, Tsinghua University, Beijing, 100084  
 ## Usage
 ### Install packages
-python-->3.8.3
+python-->3.8.3  
 keras-->2.3.1
 ### Generate attack samples
 run generator.ipynb to generate attack samples
