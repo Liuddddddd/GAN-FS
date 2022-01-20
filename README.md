@@ -11,3 +11,14 @@ Intrusion detection, GAN, Feature selection, Unbalanced dataset, Oversampling
 <sup>2</sup>Engineering Research Center of Intelligent Perception and Autonomous  Control, Ministry of Education  
 <sup>3</sup>NSFOCUS Technologies Group Co., Ltd., Beijing, 100089  
 <sup>4</sup>Department of Automation, Tsinghua University, Beijing, 100084  
+## Recommended Citation :
+Xiaodong Liu, Tong Li, Runzi Zhang, Di Wu, Yongheng Liu, Zhen Yang, "A GAN and Feature Selection-Based Oversampling Technique for Intrusion Detection", Security and Communication Networks, vol. 2021, Article ID 9947059, 15 pages, 2021. https://doi.org/10.1155/2021/9947059
+## Bibtex Format :
+@article{liu2021gan,
+  title={A GAN and Feature Selection-Based Oversampling Technique for Intrusion Detection},
+  author={Liu, Xiaodong and Li, Tong and Zhang, Runzi and Wu, Di and Liu, Yongheng and Yang, Zhen},
+  journal={Security and Communication Networks},
+  volume={2021},
+  year={2021},
+  publisher={Hindawi}
+}
