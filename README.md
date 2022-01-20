@@ -12,6 +12,9 @@ Intrusion detection, GAN, Feature selection, Unbalanced dataset, Oversampling
 <sup>3</sup>NSFOCUS Technologies Group Co., Ltd., Beijing, 100089  
 <sup>4</sup>Department of Automation, Tsinghua University, Beijing, 100084  
 ## Usage
+### Install packages
+python-->3.8.3
+keras-->2.3.1
 ### Generate attack samples
 run generator.ipynb to generate attack samples
 ### Train & Test IDS
@@ -30,3 +33,5 @@ Xiaodong Liu, Tong Li, Runzi Zhang, Di Wu, Yongheng Liu, Zhen Yang, "A GAN and F
   year={2021},  
   publisher={Hindawi}  
 }
+## Contact
+e-mail: liuxiaodongpro@163.com
